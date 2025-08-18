@@ -2,9 +2,9 @@
 <!DOCTYPE html>
   <body>
     <div class="min-h-screen bg-gray-50">
-      <nav class="bg-white shadow-md">
+      <nav class="bg-white shadow-md py-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div class="flex justify-between h-16">
+          <div class="flex justify-between">
             <div class="flex items-center">
               <span class="text-primary-600 text-xl font-bold">JobRadar</span>
               <div class="hidden md:ml-6 md:flex md:space-x-8">

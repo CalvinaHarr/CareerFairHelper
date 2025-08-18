@@ -1,10 +1,11 @@
 <script setup lang="js">
 import AppHeader from "./components/AppHeader.vue";
 
-</script>
+</script> 
 
 <template>
   <app-header></app-header>
+  <router-view  />
 </template>
 
 <style>
