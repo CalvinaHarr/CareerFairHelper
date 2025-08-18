@@ -1,11 +1,12 @@
 <script setup lang="js">
 import AppHeader from "./components/AppHeader.vue";
-
+import CompanyList from "./components/CompanyList.vue";
 </script> 
 
 <template>
-  <app-header></app-header>
-  <router-view  />
+  <app-header />
+  <company-list />
+  <router-view />
 </template>
 
 <style>
