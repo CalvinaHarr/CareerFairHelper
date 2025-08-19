@@ -1,6 +1,6 @@
 <script setup lang="js">
 import AppHeader from "./components/AppHeader.vue";
-import CompanyList from "./components/CompanyList.vue";
+import CompanyList from "./components/CompanySearch.vue";
 </script> 
 
 <template>
